@@ -14,7 +14,7 @@
 * **Language:** Java 17+
 * **Packet Capture Library:** Pcap4J (Core & Factory Static)
 * **Build Tool:** Maven
-* **Environment:** Lubuntu Linux (VirtualBox) with Monitor Mode wireless adapters (Realtek RTL8188 series)
+* **Environment:** Lubuntu Linux (VirtualBox) with monitor-mode wireless adapters (Realtek RTL8188 series)
 
 ## Project Structure
 
